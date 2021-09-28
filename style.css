@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+   
+    
+}
+.img1{
+  width: 230px;
+  height: 250px;  
+    border-radius:10px;  
+ margin-top:15px
+}
+#welcome{
+    background:linear-gradient(#02aab0 30%,#00cdac 70%);
+       
+}
+#bio{
+    background:linear-gradient(#ddd6f3 20%,#faaca8 80%);
+         text-align: center;
+}
+p{
+    max-width: 400px;
+    margin:25px;
+    font-size: 17px;
+    line-height: 1.3;
+   
+        
+        
+}
